@@ -6,6 +6,10 @@ This is just a color scheme, for now, not a theme. However, it fits nicely with 
 
 I have compared it with the VS Code original for languages such as Javascript (Babel), Python, Markdown, HTML, CSS, Pug, Ruby, Typescript, and it is quite similar, although not identical, but I am satisfied with it.
 
+# Installation
+
+Just download the `.tmTheme` file to your Sublime Text User folder (e.g. `/Users/username/Library/Application\ Support/Sublime\ Text\ 3/Packages/User`).
+
 ## To-Do's
 
 - [ ] Check compatability with other languages such as Java and C/C++.
