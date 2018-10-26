@@ -1,4 +1,4 @@
-# One Dark Sublime Text 3 Color Scheme
+# Night Owl for Sublime Text Color Scheme
 
 This is a port of [VS Code Night Owl](https://github.com/sdras/night-owl-vscode-theme) theme adapted to Sublime Text.
 
