@@ -1,8 +1,0 @@
-{
-  "platforms": ["*"],
-  "description": "A port of the VS Code Night Owl color scheme.",
-  "dependencies": [],
-  "sublime_text": "*",
-  "url": "",
-  "version": "1.0"
-}
