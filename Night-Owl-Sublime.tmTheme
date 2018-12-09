@@ -339,7 +339,7 @@
 			<key>name</key>
 			<string>HTML Tag names</string>
 			<key>scope</key>
-			<string>entity.name.tag,meta.tag.other.html,meta.tag.other.js,meta.tag.other.tsx,entity.name.tag.tsx,entity.name.tag.js,meta.tag.js,meta.tag.tsx,meta.tag.html</string>
+			<string>entity.name.tag,meta.tag.other.html,meta.tag.other.js,meta.tag.other.tsx,entity.name.tag.tsx,entity.name.tag.js,meta.tag.js,meta.tag.tsx,meta.tag.html, entity.name.tag.custom.html</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
