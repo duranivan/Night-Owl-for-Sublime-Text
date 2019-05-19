@@ -1481,9 +1481,9 @@
 		</dict>
 		<dict>
 		  <key>name</key>
-		  <string>JavaScript String Template </string>
+		  <string>JavaScript - Typescript String Template </string>
 		  <key>scope</key>
-		  <string>source.js string.interpolated.js keyword.other.substitution</string>
+		  <string>source.js string.interpolated.js keyword.other.substitution, string.template.ts punctuation.definition.template-expression</string>
 		  <key>settings</key>
 		  <dict>
 		    <key>foreground</key>
