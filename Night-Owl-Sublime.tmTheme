@@ -180,6 +180,8 @@
 			<dict>
 				<key>foreground</key>
 				<string>#82AAFF</string>
+				<key>fontStyle</key>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -329,7 +331,33 @@
 				<key>foreground</key>
 				<string>#82AAFF</string>
 				<key>fontStyle</key>
-				<string></string>
+				<string>italic</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Support Type Primitive</string>
+			<key>scope</key>
+			<string>support.type.primitive</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#addb67</string>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Meta Object-literal Key</string>
+			<key>scope</key>
+			<string>meta.object-literal.key</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#d6deeb</string>
+				<key>fontStyle</key>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -798,19 +826,6 @@
 		</dict>
 		<dict>
 		  <key>name</key>
-		  <string>Entity Name Function</string>
-		  <key>scope</key>
-		  <string>entity.name.function</string>
-		  <key>settings</key>
-		  <dict>
-		    <key>foreground</key>
-		    <string>#82AAFF</string>
-		    <key>fontStyle</key>
-		    <string></string>
-		  </dict>
-		</dict>
-		<dict>
-		  <key>name</key>
 		  <string>Keyword Operator Comparison, imports, returns and Keyword Operator Ruby</string>
 		  <key>scope</key>
 		  <string>keyword.operator.comparison,keyword.operator.relational,keyword.control.flow.js,keyword.control.flow.ts,keyword.control.flow.tsx,keyword.control.ruby,keyword.control.module.ruby,keyword.control.class.ruby,keyword.control.def.ruby,keyword.control.loop.js,keyword.control.loop.ts,keyword.control.import.js,keyword.control.import.ts,keyword.control.import.tsx,keyword.control.from.js,keyword.control.from.ts,keyword.control.from.tsx,keyword.operator.module.js,keyword.operator.module.ts</string>
@@ -918,6 +933,8 @@
 		  <dict>
 		    <key>foreground</key>
 		    <string>#7fdbca</string>
+		    <key>fontStyle</key>
+		    <string>italic</string>
 		  </dict>
 		</dict>
 		<dict>
@@ -1179,6 +1196,8 @@
 		  <dict>
 		    <key>foreground</key>
 		    <string>#addb67</string>
+		    <key>fontStyle</key>
+		    <string>italic</string>
 		  </dict>
 		</dict>
 		<dict>
@@ -2079,6 +2098,8 @@
 		  <dict>
 		    <key>foreground</key>
 		    <string>#d6deeb</string>
+		    <key>fontStyle</key>
+		    <string>italic</string>
 		  </dict>
 		</dict>
 		<dict>
@@ -2090,6 +2111,8 @@
 		  <dict>
 		    <key>foreground</key>
 		    <string>#ffcb8b</string>
+		    <key>fontStyle</key>
+		    <string>italic</string>
 		  </dict>
 		</dict>
 		<dict>
@@ -2167,6 +2190,8 @@
 		  <dict>
 		    <key>foreground</key>
 		    <string>#d7dbe0</string>
+		    <key>fontStyle</key>
+		    <string>italic</string>
 		  </dict>
 		</dict>
 		<dict>
@@ -2241,7 +2266,7 @@
 		  <key>name</key>
 		  <string>normalize font style of certain components</string>
 		  <key>scope</key>
-		  <string>meta.property-list.css meta.property-value.css variable.other.less,meta.property-list.scss variable.scss,meta.property-list.sass variable.sass,meta.brace,keyword.operator.operator,keyword.operator.or.regexp,keyword.operator.expression.in,keyword.operator.relational,keyword.operator.assignment,keyword.operator.comparison,keyword.operator.type,keyword.operator,keyword,punctuation.definintion.string,punctuation,variable.other.readwrite.js,storage.type,source.css,string.quoted,punctuation.separator.key-value.js,punctuation.accessor.arrow.php,punctuation.accessor.double-colon.php,variable.language.python,comment.block.documentation.python, comment.block.documentation.python punctuation.definition.comment,punctuation.accessor.ruby</string>
+		  <string>meta.property-list.css meta.property-value.css variable.other.less,meta.property-list.scss variable.scss,meta.property-list.sass variable.sass,meta.brace,keyword.operator.operator,keyword.operator.or.regexp,keyword.operator.expression.in,keyword.operator.relational,keyword.operator.assignment,keyword.operator.comparison,keyword.operator.type,keyword.operator,keyword,punctuation.definintion.string,punctuation,storage.type,source.css,string.quoted,punctuation.separator.key-value.js,punctuation.accessor.arrow.php,punctuation.accessor.double-colon.php,variable.language.python,comment.block.documentation.python, comment.block.documentation.python punctuation.definition.comment,punctuation.accessor.ruby,variable.object.property.ts,variable.object.property.tsx</string>
 		  <key>settings</key>
 		  <dict>
 		    <key>fontStyle</key>
