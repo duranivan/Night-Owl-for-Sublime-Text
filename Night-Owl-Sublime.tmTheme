@@ -2211,7 +2211,7 @@
 		  <key>name</key>
 		  <string>Text nested in React tags</string>
 		  <key>scope</key>
-		  <string>meta.jsx.children,meta.jsx.children.js,meta.jsx.children.tsx</string>
+		  <string>meta.jsx.children,meta.jsx.children.js,meta.tag.tsx meta.jsx.children.tsx</string>
 		  <key>settings</key>
 		  <dict>
 		    <key>foreground</key>
